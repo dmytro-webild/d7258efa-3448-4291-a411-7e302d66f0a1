@@ -52,21 +52,21 @@ export default function SolutionsPage() {
               id: "liquidity-intelligence",
               title: "Liquidity Intelligence Systems",
               description: "Decision-support and signal systems for identifying movement, imbalance, opportunity, and structural friction across dynamic environments.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/liquidity-intelligence-visualization-sho-1773923424133-9076b3e3.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/liquidity-intelligence-visualization-sho-1773923424133-9076b3e3.png?_wi=3",
               imageAlt: "Liquidity intelligence visualization",
             },
             {
               id: "agentic-monetization",
               title: "Agentic Monetization Infrastructure",
               description: "Adaptive tooling that helps turn fragmented digital activity into coordinated, trackable, and scalable economic outcomes.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/autonomous-execution-system-interface-sh-1773923424581-636861ec.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/autonomous-execution-system-interface-sh-1773923424581-636861ec.png?_wi=3",
               imageAlt: "Agentic automation infrastructure",
             },
             {
               id: "trust-infrastructure",
               title: "Trust & Identity Infrastructure",
               description: "Systems that improve discoverability, verification, coordination, and confidence across machine and human participants.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/coordination-infrastructure-showing-rese-1773923424320-2c3515a2.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/coordination-infrastructure-showing-rese-1773923424320-2c3515a2.png?_wi=3",
               imageAlt: "Trust and coordination infrastructure",
             },
             {
@@ -93,7 +93,7 @@ export default function SolutionsPage() {
               id: "independent-operators",
               title: "Independent Operators",
               description: "Cleaner signal, faster tooling, better automation, and stronger operating leverage for individual traders and builders.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/representation-of-civilian-operators-ind-1773923424598-87f036a2.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/representation-of-civilian-operators-ind-1773923424598-87f036a2.png?_wi=3",
               imageAlt: "Independent operator workspace",
             },
             {
@@ -107,7 +107,7 @@ export default function SolutionsPage() {
               id: "institutional-teams",
               title: "Institutional Teams",
               description: "High-trust surfaces, clearer control layers, and infrastructure that supports structured deployment pathways.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/representation-of-institutional-environm-1773923425945-0b591984.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/representation-of-institutional-environm-1773923425945-0b591984.png?_wi=3",
               imageAlt: "Institutional operations center",
             },
           ]}
