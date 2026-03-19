@@ -53,21 +53,21 @@ export default function RoadmapPage() {
               id: "foundation",
               title: "Foundation — NOW",
               description: "Refining the core architecture, aligning system surfaces, and consolidating the research, control, and deployment layers.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-signals-1773923423763-a6abea6e.png?_wi=2",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-signals-1773923423763-a6abea6e.png",
               imageAlt: "Foundation phase - Core architecture",
             },
             {
               id: "operationalization",
               title: "Operationalization — NEXT",
               description: "Moving from isolated capabilities into more tightly integrated tools, environments, and repeatable workflows.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-orchestration-layer-task-routing-pr-1773923424981-2cd12223.png?_wi=6",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-orchestration-layer-task-routing-pr-1773923424981-2cd12223.png",
               imageAlt: "Operationalization phase - Integration",
             },
             {
               id: "scale",
               title: "Scale — LATER",
               description: "Expanding the stack into broader deployment pathways, stronger interfaces, and higher-trust environments with clearer observability.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-feedback-verification-layer-outcome-1773923425038-22cc9c9f.png?_wi=6",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-feedback-verification-layer-outcome-1773923425038-22cc9c9f.png",
               imageAlt: "Scale phase - Broad deployment",
             },
           ]}
@@ -124,7 +124,7 @@ export default function RoadmapPage() {
           subdescription="The standard is not novelty alone. The standard is durable utility. Every release, every capability, and every interface must survive contact with real operators and real markets."
           icon={Target}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/vision-future-systems-1773923425117-c5d917cd.png"
-          imageAlt: "Future systems vision"
+          imageAlt="Future systems vision"
           mediaAnimation="opacity"
           useInvertedBackground={false}
         />
