@@ -24,19 +24,19 @@ export default function ContactPage() {
       id: "email",
       title: "Email",
       description: "For general inquiries and partnership discussions.",
-      imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-minimalist-icon-representing-research--1773923423912-9a3f1833.png",
+      imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-minimalist-icon-representing-research--1773923423912-9a3f1833.png?_wi=2",
     },
     {
       id: "business",
       title: "Business Development",
       description: "Strategic partnerships, institutional deployments, and integration opportunities.",
-      imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-minimalist-icon-representing-deploymen-1773923422540-e627e69c.png",
+      imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-minimalist-icon-representing-deploymen-1773923422540-e627e69c.png?_wi=2",
     },
     {
       id: "technical",
       title: "Technical Support",
       description: "Infrastructure questions, system integration, and deployment pathways.",
-      imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-minimalist-icon-representing-control-a-1773923424476-022dac91.png",
+      imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-minimalist-icon-representing-control-a-1773923424476-022dac91.png?_wi=2",
     },
   ];
 
@@ -73,7 +73,7 @@ export default function ContactPage() {
           description="Adaptive Liquidity Labs is interested in conversations around infrastructure, strategic deployment, research alignment, and systems-level collaboration."
           subdescription="If you are building in markets, AI systems, agent infrastructure, or liquidity-sensitive environments, this is the right place to start a higher-level conversation."
           icon={Mail}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-sophisticated-liquidity-intelligence-m-1773923424923-83e65bbb.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-sophisticated-liquidity-intelligence-m-1773923424923-83e65bbb.png?_wi=3"
           imageAlt="Contact interface visualization"
           mediaAnimation="slide-up"
           useInvertedBackground={false}

@@ -53,28 +53,28 @@ export default function ProofPage() {
               id: "papers",
               title: "Papers",
               description: "Technical papers, system writeups, and formal architecture documents.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-research-layer-analysis-and-discove-1773923424650-7f61ccc9.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-research-layer-analysis-and-discove-1773923424650-7f61ccc9.png?_wi=3",
               imageAlt: "Research and analysis documentation",
             },
             {
               id: "blueprints",
               title: "System Blueprints",
               description: "Visual and written breakdowns of how the stack is designed to function.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/advanced-infrastructure-blueprint-showin-1773923423946-f4265e1f.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/advanced-infrastructure-blueprint-showin-1773923423946-f4265e1f.png?_wi=3",
               imageAlt: "System architecture blueprints",
             },
             {
               id: "prototypes",
               title: "Prototypes",
               description: "Working product surfaces, interaction models, and deployment pathways.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-orchestration-layer-task-routing-pr-1773923424981-2cd12223.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-orchestration-layer-task-routing-pr-1773923424981-2cd12223.png?_wi=5",
               imageAlt: "Prototype interface demonstrations",
             },
             {
               id: "operating-logic",
               title: "Operating Logic",
               description: "The principles, constraints, and mechanisms that govern how systems are built and used.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-feedback-verification-layer-outcome-1773923425038-22cc9c9f.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-feedback-verification-layer-outcome-1773923425038-22cc9c9f.png?_wi=5",
               imageAlt: "Operating principles and mechanisms",
             },
           ]}
@@ -97,7 +97,7 @@ export default function ProofPage() {
           description="A research-led architectural overview of the system logic, layers, and design stance behind Adaptive Liquidity Labs."
           subdescription="This comprehensive guide explains how AEON transforms inputs into coordinated outputs through research, orchestration, bounded execution, and continuous feedback. It serves as the foundation for understanding how all other systems integrate and operate within the broader infrastructure."
           icon={Layers}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-signals-1773923423763-a6abea6e.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-signals-1773923423763-a6abea6e.png?_wi=1"
           imageAlt="AEON Protocol architecture visualization"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
@@ -151,7 +151,7 @@ export default function ProofPage() {
           description="The proof page communicates that this company prefers architecture, clarity, and working systems over empty claims."
           subdescription="Every system, framework, and capability described in our research exists not as marketing narrative, but as documented architecture, working prototypes, and deployed infrastructure. We measure ourselves by evidence, not hype."
           icon={Target}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/future-oriented-visualization-of-adaptiv-1773923425117-c5d917cd.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/future-oriented-visualization-of-adaptiv-1773923425117-c5d917cd.png?_wi=3"
           imageAlt="Evidence-based systems visualization"
           mediaAnimation="opacity"
           useInvertedBackground={false}

@@ -53,15 +53,15 @@ export default function MissionPage() {
           description="Build infrastructure that makes liquidity more intelligent, more adaptive, and more usable. Adaptive Liquidity Labs is building systems that bring research, orchestration, execution, and feedback into a single adaptive framework."
           slides={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-sophisticated-liquidity-intelligence-m-1773923424923-83e65bbb.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/a-sophisticated-liquidity-intelligence-m-1773923424923-83e65bbb.png?_wi=2",
               imageAlt: "Liquidity intelligence systems",
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/an-economic-orchestration-engine-interfa-1773923428465-c437bc7e.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/an-economic-orchestration-engine-interfa-1773923428465-c437bc7e.png?_wi=2",
               imageAlt: "Adaptive coordination systems",
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/interconnected-system-nodes-floating-in--1773923423285-08810acd.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/interconnected-system-nodes-floating-in--1773923423285-08810acd.png?_wi=2",
               imageAlt: "Integrated feedback systems",
             },
           ]}
@@ -89,21 +89,21 @@ export default function MissionPage() {
               id: "fragmentation",
               title: "Systems are disconnected",
               description: "Existing infrastructure forces operators to manage multiple tools, lose signal continuity, and manually coordinate between research and execution.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/advanced-infrastructure-blueprint-showin-1773923423946-f4265e1f.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/advanced-infrastructure-blueprint-showin-1773923423946-f4265e1f.png?_wi=2",
               imageAlt: "Fragmentation challenge",
             },
             {
               id: "delayed-intelligence",
               title: "Intelligence becomes stale",
               description: "Delays between data collection, analysis, and action execution mean opportunities are missed and risk accumulates.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/liquidity-intelligence-visualization-sho-1773923424133-9076b3e3.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/liquidity-intelligence-visualization-sho-1773923424133-9076b3e3.png?_wi=2",
               imageAlt: "Intelligence latency challenge",
             },
             {
               id: "manual-overhead",
               title: "Manual overhead dominates",
               description: "Repeatable economic tasks remain manual, consuming operator time and introducing systematic errors.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/autonomous-execution-system-interface-sh-1773923424581-636861ec.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/autonomous-execution-system-interface-sh-1773923424581-636861ec.png?_wi=2",
               imageAlt: "Manual overhead challenge",
             },
           ]}
@@ -123,42 +123,42 @@ export default function MissionPage() {
               id: "people-first",
               title: "People before abstraction",
               description: "Systems should serve real users and real operators before they serve narratives or technical sophistication.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/representation-of-civilian-operators-ind-1773923424598-87f036a2.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/representation-of-civilian-operators-ind-1773923424598-87f036a2.png?_wi=2",
               imageAlt: "People-first principle",
             },
             {
               id: "intelligence-to-action",
               title: "Intelligence must become action",
               description: "Research without execution is static analysis. Execution without intelligence is reckless automation. Intelligence only matters when it drives measurable outcomes.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-orchestration-layer-task-routing-pr-1773923424981-2cd12223.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-orchestration-layer-task-routing-pr-1773923424981-2cd12223.png?_wi=2",
               imageAlt: "Intelligence-to-action principle",
             },
             {
               id: "adaptivity-wins",
               title: "Adaptivity beats rigidity",
               description: "The strongest systems do not merely automate fixed workflows. They respond to change, re-balance under new conditions, and learn from outcomes.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-feedback-verification-layer-outcome-1773923425038-22cc9c9f.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/aeon-feedback-verification-layer-outcome-1773923425038-22cc9c9f.png?_wi=2",
               imageAlt: "Adaptivity principle",
             },
             {
               id: "control-matters",
               title: "Control matters",
               description: "Autonomy must be bounded, observable, and reviewable. Systems that operate without clear control surfaces breed distrust and risk.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/representation-of-institutional-environm-1773923425945-0b591984.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/representation-of-institutional-environm-1773923425945-0b591984.png?_wi=2",
               imageAlt: "Control principle",
             },
             {
               id: "trust-wins",
               title: "Long-term trust wins",
               description: "High-trust infrastructure is built through clarity, evidence, and disciplined system design. Not through claims.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/future-oriented-visualization-of-adaptiv-1773923425117-c5d917cd.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/future-oriented-visualization-of-adaptiv-1773923425117-c5d917cd.png?_wi=2",
               imageAlt: "Trust principle",
             },
             {
               id: "compound-utility",
               title: "Compound utility over time",
               description: "Strong systems improve performance across multiple dimensions: signal quality, decision speed, execution precision, and capital preservation.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/coordination-infrastructure-showing-rese-1773923424320-2c3515a2.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BAD2d6kqNIKhzyVPnRs3VDF6rA/coordination-infrastructure-showing-rese-1773923424320-2c3515a2.png?_wi=2",
               imageAlt: "Compound utility principle",
             },
           ]}
